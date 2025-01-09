@@ -1,6 +1,6 @@
 # Systematic and Scalable Metamorphic Testing for Vision-Based Autonomous Driving
 
-This repository provides the implementation of the **Systematic and Scalable Metamorphic Testing Framework for Vision-Based Autonomous Driving Systems (ADS)**. The framework integrates **causal inference** and **diffusion models** to enhance the reliability testing of ADS, facilitating the detection of faults under diverse driving conditions.
+This repository provides the implementation of the **Efficient and Systematic Metamorphic Testing Framework for Vision-Based Autonomous Driving Systems (ADS)**. The framework integrates **causal inference** and **diffusion models** to enhance the reliability testing of ADS, facilitating the detection of faults under diverse driving conditions.
 
 ## NOTE:
 **The code is currently undergoing necessary refinement and will be available soon.**
